@@ -7,3 +7,9 @@
     - Session and Authentication
     - Composer
     - Testing
+
+
+##### How to run project:
+```
+php -S localhost:8000 -t public 
+```

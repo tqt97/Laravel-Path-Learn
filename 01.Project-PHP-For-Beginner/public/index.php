@@ -27,5 +27,3 @@ try {
 }
 
 Session::unflash();
-
-
